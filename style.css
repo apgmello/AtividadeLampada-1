@@ -46,5 +46,23 @@ h1 {
 }
 
 button{
-    width: 80px;
+    font-weight: bold;
+    width: 100px;
+    height: 40px;
 }
+
+.gfg {
+    position: absolute;
+    top: 12vh;
+    bottom: 12vh;
+    left:auto;
+    right: auto;
+    text-align: center;
+}
+ img {
+    position: relative;
+    width: 90%;
+    height: 95%;
+    object-fit: contain;
+} 
+
